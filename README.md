@@ -38,6 +38,12 @@ The project evaluates mobile models across brands, regions, prices, and hardware
 - Model-level drill-through analysis
 - Currency-normalized price comparison (USD)
 
+## How to Use the Dashboard
+- Use slicers to filter by brand, region, RAM, and price range
+- Navigate across Overview, Price Analysis, and Feature Comparison pages
+- Use drill-through to analyze individual mobile models
+- Hover over visuals to view detailed comparisons and tooltips
+
 ### Business Insights
 - Significant pricing variation observed across regions for the same mobile models
 - Higher RAM and camera specifications are strongly associated with higher launch prices
